@@ -1,0 +1,431 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rshootsports.com" resolutions="1x" timestamp="1631992914777">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="515637746" ref="الرئيسية"/>
+    <file name="index.css" crc="422479858" ref="index"/>
+    <file name="________.css" crc="4192225866" ref="الرئيسية"/>
+    <file name="bn2.css" crc="122117211" ref="bn2"/>
+    <file name="bn1.css" crc="3894813098" ref="bn1"/>
+    <file name="bn3.css" crc="4107216402" ref="bn3"/>
+    <file name="bnp2.css" crc="4036393293" ref="bnp2"/>
+    <file name="bnp3.css" crc="453745367" ref="bnp3"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:الرئيسية:bnp2:bnp3:bn1:bn2:bn3"/>
+    <file name="museutils.js" crc="3939489907" ref="index:الرئيسية:bnp2:bnp3:bn1:bn2:bn3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:الرئيسية:bnp2:bnp3:bn1:bn2:bn3"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:الرئيسية:bnp2:bnp3:bn1:bn2:bn3"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:الرئيسية:bnp2:bnp3:bn1:bn2:bn3"/>
+    <file name="webpro.js" crc="3856315280" ref="index:الرئيسية:bnp2:bnp3:bn1:bn2:bn3"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:الرئيسية:bnp2:bnp3:bn1:bn2:bn3"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:الرئيسية:bnp2:bnp3:bn1:bn2:bn3"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:الرئيسية:bnp2:bnp3:bn1:bn2:bn3"/>
+    <file name="require.js" crc="4177726516" ref="index:الرئيسية:bnp2:bnp3:bn1:bn2:bn3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:bnp2:bnp3:bn1:bn2:bn3"/>
+  </folder>
+  <folder name="images">
+    <file name="new project (10).png" crc="434800418" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="u8094-4.png" crc="3976083857" ref="الرئيسية"/>
+    <file name="picsart_21-09-13_01-49-47-112.png" crc="4284345584" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="picsart_09-13-020641.png" crc="314815803" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="picsart_21-09-13_02-04-50-525.png" crc="4190415862" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="u8160-4.png" crc="3964710483" ref="الرئيسية"/>
+    <file name="u8165-6.png" crc="521062579" ref="الرئيسية"/>
+    <file name="new project (18).jpg" crc="452791467" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="u8412-4.png" crc="251468937" ref="الرئيسية"/>
+    <file name="u8413-6.png" crc="27848324" ref="الرئيسية"/>
+    <file name="picsart_21-09-13_02-03-34-353-crop-u8459.png" crc="43551019" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="picsart_21-09-13_02-04-08-864.png" crc="4278844101" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (2).jpg" crc="2853763" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (12).jpg" crc="4274675898" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (13).png" crc="4271827995" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (14).png" crc="399893612" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (7).jpg" crc="3763871242" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (15).png" crc="121946901" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (8).jpg" crc="509627453" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (9).jpg" crc="257557991" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (10).jpg" crc="3771066435" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (11).jpg" crc="3962847441" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (4).jpg" crc="3901662040" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (16).png" crc="4248657365" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (17).png" crc="3791035057" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (18).png" crc="4089532447" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1.jpg" crc="3947387958" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (1).jpg" crc="9874308" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (3).jpg" crc="3882241130" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (5).jpg" crc="43475760" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project1 (6).jpg" crc="229978564" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project.jpg" crc="4013244648" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project (4).jpg" crc="77082769" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project (5).jpg" crc="3775678198" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="img site center.jpg" crc="106122472" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+    </file>
+    <file name="new project (3)210x59.jpg" crc="111037240" seo="true" ref="الرئيسية">
+      <caption webpage="index" alt=""/>
+      <caption webpage="الرئيسية" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="الرئيسية"/>
+    <file name="u13907_states.png" crc="515913395" ref="الرئيسية"/>
+    <file name="u13907_states-r.png" crc="172401358" ref="الرئيسية"/>
+    <file name="new project (6).png" crc="4128792569" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="picsart_21-09-16_12-59-41-761.png" crc="4072171591" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="picsart_21-09-16_13-02-50-358.png" crc="74734271" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="picsart_09-16-125648.png" crc="4073870231" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="2016_bein_sports_logosvg.png" crc="520339712" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="picsart_09-16-010159-crop-u14383.png" crc="4056973634" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+    </file>
+    <file name="new project (26).png" crc="322026739" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (29).png" crc="144648464" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (30).png" crc="125888422" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (31).png" crc="369519168" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (32).png" crc="53351199" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (33).png" crc="48302032" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (34).png" crc="4029041449" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (37).png" crc="4262807136" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (38).png" crc="3811876334" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (39).png" crc="11744295" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (14).png" crc="346580638" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (15).png" crc="3960900145" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (13).png" crc="4085417558" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (16).png" crc="4092720595" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (12).png" crc="308436806" seo="true" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="u15636-4.png" crc="3939612607" ref="index"/>
+    <file name="124010-crop-u15616.png" crc="4220173490" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+    </file>
+    <file name="new project (18)-crop-u15626.png" crc="3806761887" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+    </file>
+    <file name="new project (17).jpg" crc="295212308" ref="index:bnp2:bnp3:bn1:bn2:bn3">
+      <caption webpage="bnp3" alt=""/>
+      <caption webpage="bn2" alt=""/>
+      <caption webpage="bnp2" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bn1" alt=""/>
+      <caption webpage="bein-sports-live" alt=""/>
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="picsart_09-16-010159-crop-u15832.png" crc="4056973634" seo="true" ref="bnp2">
+      <caption webpage="bnp2" alt=""/>
+    </file>
+    <file name="u15916-4.png" crc="3939612607" ref="bnp2"/>
+    <file name="124010-crop-u15864.png" crc="4220173490" seo="true" ref="bnp2">
+      <caption webpage="bnp2" alt=""/>
+    </file>
+    <file name="new project (18)-crop-u15871.png" crc="3806761887" seo="true" ref="bnp2">
+      <caption webpage="bnp2" alt=""/>
+    </file>
+    <file name="picsart_09-16-010159-crop-u16039.png" crc="4056973634" seo="true" ref="bnp3">
+      <caption webpage="bnp3" alt=""/>
+    </file>
+    <file name="u16028-4.png" crc="3939612607" ref="bnp3"/>
+    <file name="124010-crop-u15957.png" crc="4220173490" seo="true" ref="bnp3">
+      <caption webpage="bnp3" alt=""/>
+    </file>
+    <file name="new project (18)-crop-u16026.png" crc="3806761887" seo="true" ref="bnp3">
+      <caption webpage="bnp3" alt=""/>
+    </file>
+    <file name="picsart_09-16-010159-crop-u16316.png" crc="4056973634" seo="true" ref="bn1">
+      <caption webpage="bn1" alt=""/>
+    </file>
+    <file name="u16397-4.png" crc="3939612607" ref="bn1"/>
+    <file name="124010-crop-u16387.png" crc="4220173490" seo="true" ref="bn1">
+      <caption webpage="bn1" alt=""/>
+    </file>
+    <file name="new project (18)-crop-u16342.png" crc="3806761887" seo="true" ref="bn1">
+      <caption webpage="bn1" alt=""/>
+    </file>
+    <file name="picsart_09-16-010159-crop-u16502.png" crc="4056973634" seo="true" ref="bn2">
+      <caption webpage="bn2" alt=""/>
+    </file>
+    <file name="u16531-4.png" crc="3939612607" ref="bn2"/>
+    <file name="124010-crop-u16506.png" crc="4220173490" seo="true" ref="bn2">
+      <caption webpage="bn2" alt=""/>
+    </file>
+    <file name="new project (18)-crop-u16461.png" crc="3806761887" seo="true" ref="bn2">
+      <caption webpage="bn2" alt=""/>
+    </file>
+    <file name="picsart_09-16-010159-crop-u16796.png" crc="4056973634" seo="true" ref="bn3">
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="u16888-4.png" crc="3939612607" ref="bn3"/>
+    <file name="124010-crop-u16836.png" crc="4220173490" seo="true" ref="bn3">
+      <caption webpage="bn3" alt=""/>
+    </file>
+    <file name="new project (18)-crop-u16811.png" crc="3806761887" seo="true" ref="bn3">
+      <caption webpage="bn3" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4238729099" seo="true" mt="1631981273368" redirect="true"/>
+  <file name="الرئيسية.html" crc="3770542163" seo="true" mt="1631980595506" redirect="true"/>
+  <file name="bnp2.html" crc="167640125" seo="true" mt="1631982629909" redirect="true"/>
+  <file name="bnp3.html" crc="4292526811" seo="true" mt="1631982606142" redirect="true"/>
+  <file name="bn1.html" crc="303342730" seo="true" mt="1631982567662" redirect="true"/>
+  <file name="bn2.html" crc="440519369" seo="true" mt="1631982525633" redirect="true"/>
+  <file name="bn3.html" crc="3992075095" seo="true" mt="1631992886865" redirect="true"/>
+</manifest>
